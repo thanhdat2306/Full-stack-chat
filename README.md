@@ -17,14 +17,12 @@ Whatapp clone, the aim is to enable people to communicate in real time
 
 
 ## Database and Environment Setup
-- Search for MongoDB on its official website (https://www.mongodb.com/).
 - Create a new database and collections.
 - Configure the necessary settings to connect the project to the MongoDB database.
 - Add the path value to the .env file.
 
 
 ## Application Setup:
-- git clone https://github.com/oktay379/Full-Stack-Chat-App
 - cd Full-Stack-Chat-App
 - cd frontend npm run dev
 - Open another terminal and start the backend
